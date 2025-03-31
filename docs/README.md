@@ -2,6 +2,18 @@
 
 `EasyAdmin8` 是基于 `EasyAdmin` 的快速开发的后台管理系统，并衍生了 `Laravel`、`webman`不同框架的后台管理系统。
 
+项目官网 [EasyAdmin8.top](https://EasyAdmin8.top)
+
+[常见问题必看](https://easyadmin8.top/guide/question.html)
+
+# 项目地址
+
+|          |                                 Github                                 |                                 Gitee                                 |
+|----------|:----------------------------------------------------------------------:|:---------------------------------------------------------------------:|
+| ThinkPHP |         [EasyAdmin8](https://github.com/EasyAdmin8/EasyAdmin8)         |         [EasyAdmin8](https://gitee.com/EasyAdmin8/EasyAdmin8)         |
+| Laravel  | [EasyAdmin8-Laravel](https://github.com/EasyAdmin8/EasyAdmin8-Laravel) | [EasyAdmin8-Laravel](https://gitee.com/EasyAdmin8/EasyAdmin8-Laravel) |
+| webman   |  [EasyAdmin8-webman](https://github.com/EasyAdmin8/EasyAdmin8-webman)  |  [EasyAdmin8-webman](https://gitee.com/EasyAdmin8/EasyAdmin8-webman)  |
+
 # 演示站点
 
 - [ThinkPHP 版本](http://thinkphp.easyadmin8.top/admin)
@@ -11,6 +23,12 @@
 - [webman 版本 ](http://webman.easyadmin8.top/admin)
 
 > （账号：admin，密码：123456。备注：只有查看信息的权限）
+
+# 项目捐赠
+
+| 微信                                       | 支付宝                                   |
+  |------------------------------------------|---------------------------------------|
+| ![weChat](/assets/images/wechat_pay.png) | ![alipay](/assets/images/ali_pay.png) |
 
 # 项目特性
 
