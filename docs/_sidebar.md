@@ -6,6 +6,9 @@
     - 配置项
         - [系统配置](md/config/system.md)
         - [权限配置](md/config/auth.md)
+    - CURD/CRUD
+        - [CURD命令大全](md/curd/command.md)
+        - [表结构规范](md/curd/table.md)
     - 控制器
         - [注解权限](md/backend/annotations.md)
         - [控制器属性](md/backend/attributes.md)
