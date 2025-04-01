@@ -4,25 +4,30 @@
 
 项目官网 [EasyAdmin8.top](https://EasyAdmin8.top)
 
-[常见问题必看](https://easyadmin8.top/guide/question.html)
-
 # 项目地址
 
-|          |                                 Github                                 |                                 Gitee                                 |
-|----------|:----------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-| ThinkPHP |         [EasyAdmin8](https://github.com/EasyAdmin8/EasyAdmin8)         |         [EasyAdmin8](https://gitee.com/EasyAdmin8/EasyAdmin8)         |
-| Laravel  | [EasyAdmin8-Laravel](https://github.com/EasyAdmin8/EasyAdmin8-Laravel) | [EasyAdmin8-Laravel](https://gitee.com/EasyAdmin8/EasyAdmin8-Laravel) |
-| webman   |  [EasyAdmin8-webman](https://github.com/EasyAdmin8/EasyAdmin8-webman)  |  [EasyAdmin8-webman](https://gitee.com/EasyAdmin8/EasyAdmin8-webman)  |
+> [EasyAdmin8-官方安装教程视频](https://www.bilibili.com/video/BV1iiyZY6Enf)
 
-# 演示站点
+|          |                                 Github                                 |                                 Gitee                                 |                          安装指南                          |                                     演示地址                                     |
+|----------|:----------------------------------------------------------------------:|:---------------------------------------------------------------------:|:------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| ThinkPHP |         [EasyAdmin8](https://github.com/EasyAdmin8/EasyAdmin8)         |         [EasyAdmin8](https://gitee.com/EasyAdmin8/EasyAdmin8)         | [ThinkPHP](https://easyadmin8.top/guide/thinkphp.html) | [http://thinkphp.easyadmin8.top/admin](http://thinkphp.easyadmin8.top/admin) |
+| Laravel  | [EasyAdmin8-Laravel](https://github.com/EasyAdmin8/EasyAdmin8-Laravel) | [EasyAdmin8-Laravel](https://gitee.com/EasyAdmin8/EasyAdmin8-Laravel) |  [Laravel](https://easyadmin8.top/guide/laravel.html)  |  [http://laravel.easyadmin8.top/admin](http://laravel.easyadmin8.top/admin)  |
+| webman   |  [EasyAdmin8-webman](https://github.com/EasyAdmin8/EasyAdmin8-webman)  |  [EasyAdmin8-webman](https://gitee.com/EasyAdmin8/EasyAdmin8-webman)  |   [webman](https://easyadmin8.top/guide/webman.html)   |   [http://webman.easyadmin8.top/admin](http://webman.easyadmin8.top/admin)   |
 
-- [ThinkPHP 版本](http://thinkphp.easyadmin8.top/admin)
+# **重要事情说三遍**
 
-- [Laravel 版本 ](http://laravel.easyadmin8.top/admin)
+|        |                                          **必看**                                          | 
+|--------|:----------------------------------------------------------------------------------------:|
+| 常见问题必看 | [https://easyadmin8.top/guide/question.html](https://easyadmin8.top/guide/question.html) |
+| 常见问题必看 | [https://easyadmin8.top/guide/question.html](https://easyadmin8.top/guide/question.html) |
+| 常见问题必看 | [https://easyadmin8.top/guide/question.html](https://easyadmin8.top/guide/question.html) |
+| 官方问答社区 |                [https://meta.easyadmin8.top](https://meta.easyadmin8.top)                |
 
-- [webman 版本 ](http://webman.easyadmin8.top/admin)
+# 案例说明
 
-> （账号：admin，密码：123456。备注：只有查看信息的权限）
+> 默认安装后的系统均有部分案例，可以多留意
+>
+> 系统管理中的 `日志管理` 和 商城管理中的 `商品管理`
 
 # 项目捐赠
 
@@ -87,8 +92,10 @@ Echarts：[https://github.com/apache/incubator-echarts](https://github.com/apach
 
 # 版权信息
 
-EasyAdmin遵循MIT开源协议发布，并提供免费使用。
+`EasyAdmin8` 遵循 `MIT` 开源协议发布，并提供免费使用。
 
 # QQ交流群
 
-`加群请备注来源：如gitee、github、官网等`。
+> 在各个版本的`Git`地址中有二维码，扫码进群即可
+>
+> 加群可备注来源：如 `gitee` `github` `官网` 等。
