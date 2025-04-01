@@ -8,7 +8,7 @@ protected bool $ignoreLogin = true;
 ```
 
 ```
-/// 对控制器中某个方法设置 绕过中间件登录判断 即不需要登录验证
+// 对控制器中某个方法设置 绕过中间件登录判断 即不需要登录验证
 #[MiddlewareAnnotation(ignore: MiddlewareAnnotation::IGNORE_LOGIN)]
 ```
 
