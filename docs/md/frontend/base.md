@@ -65,3 +65,35 @@ define(["jquery", "easy-admin"], function ($, ea) {
     return Controller;
 });
 ```
+
+## `js` 相关字段详解
+
+> 请结合 `layui` 官方文档查看 [https://layui.dev/docs/2/table](https://layui.dev/docs/2/table#options.cols)
+>
+> 更多案例可参考
+>
+> [goods.js](https://gitee.com/easyadmin8/EasyAdmin8/blob/main/public/static/admin/js/mall/goods.js)
+>
+> [log.js](https://gitee.com/easyadmin8/EasyAdmin8/blob/main/public/static/admin/js/system/log.js)
+
+```js
+toolbar:[{}]                     // 表格上方的工具按钮 可查看上方案例
+
+cols: [{
+    field: 'title',              // 字段
+    title: '分类名称',            // 标题
+    hide: false,                 // 是否在表格中隐藏该字段 默认 false 
+    width: 80,                   // 长度
+    minWidth: 80,                // 最小长度
+    searchValue: '',             // 搜索中的默认值 
+    search: true,                // 是否在搜索框内显示改字段搜索  true false  select=>下拉选择  range=>时间组件 xmSelect=>下拉多选
+    searchOp: '=',               // php 中 where 的搜索条件 '='=>等于 '%*%'=>模糊查询(like) 'in'=>区间
+    selectList: {},              // 当 search='select' 下拉选择的选项
+    sort: true,                  // 是否支持排序
+    edit: 'text',                // 是否可以直接在表格中修改
+    filter: 'xxx',               // 设置 lay-filter 的属性值
+    operat: [{}],                // 自定义扩展属性
+    templet: function (d) {      // https://layui.dev/docs/2/table/#cols.templet
+    },
+}]
+```
