@@ -4,14 +4,15 @@
 
 > 默认的CURD方法有：
 
-| 参数     | 说明   |
-|--------|------|
-| index  | 列表   |
-| add    | 添加   |
-| edit   | 编辑   |
-| delete | 删除   |
-| export | 导出   |
-| modify | 属性修改 |
+| 参数      | 说明   |
+|---------|------|
+| index   | 列表   |
+| add     | 添加   |
+| edit    | 编辑   |
+| delete  | 删除   |
+| export  | 导出   |
+| modify  | 属性修改 |
+| recycle | 回收站  |
 
 # 使用方法
 
