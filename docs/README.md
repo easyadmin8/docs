@@ -28,6 +28,8 @@
 > 默认安装后的系统均有部分案例，可以多留意
 >
 > 系统管理中的 `日志管理` 和 商城管理中的 `商品管理`
+>
+> 部分案例可查看 案例分享： [https://meta.easyadmin8.top](https://meta.easyadmin8.top/type-2-category-0-order-new)
 
 # 项目捐赠
 
